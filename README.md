@@ -8,6 +8,4 @@ Steps to run:
     b.mvn spring-boot:run -Dspring-boot.run.arguments=--username=admin@gmail.com (if you want to given your name as a admin login)
       the username and password are same.
  
-  # login Page
-     ![alt text](https://github.com/aravindkumar01/ticket-booking/tree/main/src/main/resources/images/adminViewBooking.PNG)
     
