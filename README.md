@@ -9,5 +9,5 @@ Steps to run:
       the username and password are same.
  
   # login Page
-  ![alt text](/main/resources/images/adminViewBooking.PNG)
+     ![alt text](https://github.com/aravindkumar01/ticket-booking/tree/main/src/main/resources/images/adminViewBooking.PNG)
     
