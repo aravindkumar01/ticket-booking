@@ -9,5 +9,5 @@ Steps to run:
       the username and password are same.
  
   # login Page
-     ![alt text](main/resources/images/adminViewBooking.PNG?raw=true)
+  ![alt text](/main/resources/images/adminViewBooking.PNG)
     
