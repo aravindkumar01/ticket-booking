@@ -9,29 +9,5 @@ Steps to run:
       the username and password are same.
  
   # login Page
-     ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-      
- # Admin Page
-    ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-    
-    Admin only view the booking details for all customers and also change the personal information for user account page.
-    
-     ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
- # Registeration page
-    ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-    
-    The user register the portal for the mentioned details in screenshoot.
-    
-
- # Booking page   
-       
-    User able to book a ticket group and individual.
-    ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-    ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-    
-  # Booking History
-      
-      The user able to view the booking history as weel
-        ![alt text](https://github.com/aravindkumar01/ticket-booking.git/image.jpg?raw=true)
-    
+     ![alt text](https://github.com/aravindkumar01/ticket-booking/tree/main/src/main/resources/images/adminViewBooking.PNG?raw=true)
     
